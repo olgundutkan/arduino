@@ -1,6 +1,6 @@
 
 int LED = 12;
-init BUTTON = 4;
+int BUTTON = 4;
 
 // the setup function runs once when you press reset or power the board
 void setup() {
